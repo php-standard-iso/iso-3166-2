@@ -3,8 +3,8 @@
 
 It defines three sets of country codes transposed to PHP includes:
 
-  [x] country names
-  [ ] country subdivisions
+  - [x] country names
+  - [ ] country subdivisions
 
 ## Objectives of this module
 
