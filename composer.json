@@ -26,12 +26,12 @@
   ],
   "autoload": {
     "psr-4": {
-      "Iso3166\\Part1\\": "src/"
+      "Iso3166\\Part2\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Iso3166Test\\Part1\\": "test/"
+      "Iso3166Test\\Part2\\": "test/"
     }
   },
   "require": {
